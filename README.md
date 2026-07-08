@@ -1,73 +1,146 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
-<h3 align="center">AI/ML Intern | Building things at the intersection of data, models, and product</h3>
+<div align="center">
+
+<br/>
+
+## 👋 Hello, I'm Alookik Gupta
+
+**I'm Alookik**, an AI/ML builder from India focused on shipping full end-to-end AI systems — voice agents, retrieval pipelines, and autonomous tools — not just wrapping API calls.
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=%3E+Building+autonomous+AI+agents...;%3E+Designing+RAG+pipelines...;%3E+Leading+a+500%2B+member+AI+community...;%3E+Shipping+one+project+at+a+time." alt="Typing SVG" />
+
+<br/>
+
+<p><i>"Understanding code is the first step. Building the whole system is the real one."</i></p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[your-email]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://[your-portfolio].com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://twitter.com/[your-handle]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/alookik-gupta"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+  <a href="mailto:alookikgupta@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/></a>
 </p>
 
----
-
-### 🚀 About Me
-
-I'm a [year, e.g. rising junior] studying [major] at [University], currently interning as an AI/ML Intern at [Company]. I'm interested in [e.g. LLMs, computer vision, applied ML, MLOps]. Outside of work I like [hobby/interest].
-
-- 🔭 Currently working on: **[project name]**
-- 🌱 Currently learning: **[technology/topic]**
-- 👯 Looking to collaborate on: **[type of project]**
-- 💬 Ask me about: **[topics you're comfortable discussing]**
-- 📫 Reach me at: **[your-email]**
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### 👤 Execute: `who-am-i`
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-</p>
+4th-year B.Tech CS & Design student building AI agents and products end-to-end — from real-time voice pipelines to retrieval-augmented systems.
 
-*(swap in whatever's actually in your stack — trim the rest)*
+- 🎙️ Built **Intervue** — an autonomous voice interview agent with a custom control-token protocol for real-time conversation management.
+- 📄 Built a **RAG-based document chatbot** using LangChain, FAISS, and locally-hosted LLMs.
+- 📰 Built **AI Chronicle** — a GenAI news aggregator with semantic deduplication.
+- 🧑‍🤝‍🧑 Leading **LOOP Club**, a 500+ member student AI/tech community, running hands-on workshops.
+- 🏆 **Third Runner-up**, Galgotias International Hackathon.
+
+> *I care about system design over shortcuts — latency budgets, reliable structured output, and pipelines that actually hold up.*
 
 ---
 
-### 📌 Featured Projects
-
-**[Project Name 1](https://github.com/[username]/[repo])**
-One-line description of what it does and why it's interesting. Mention the key technique (e.g. fine-tuned a transformer, built a RAG pipeline, trained a CV model).
-
-**[Project Name 2](https://github.com/[username]/[repo])**
-One-line description. Bonus points for a metric or result (e.g. "improved inference latency by 40%").
-
-**[Project Name 3](https://github.com/[username]/[repo])**
-One-line description, ideally something that shows range (e.g. a deployed app vs. a research notebook).
-
----
-
-### 📊 GitHub Stats
+### 📚 Tech Stack & Arsenal
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&hide_border=true" height="165" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css&perline=8" alt="Languages" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,fastapi&perline=8" alt="Frontend & Backend" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,supabase,prisma&perline=8" alt="Data" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel&perline=8" alt="Tools" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&hide_border=true" height="165" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat"/>
+  <img src="https://img.shields.io/badge/-FAISS-0467DF?style=flat"/>
+  <img src="https://img.shields.io/badge/-Ollama-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat"/>
 </p>
 
 ---
 
-<p align="center"><i>Open to AI/ML internships and collaborations — feel free to reach out!</i></p>
+### 🚀 System Deployments
+
+#### `[01] // AUTONOMOUS AI AGENTS`
+
+**[🎙️ Intervue — Autonomous Voice Interview Agent](#)**
+An end-to-end voice AI agent that conducts full spoken interviews without a human interviewer.
+- **Pipeline:** Silero VAD → Moonshine STT → Gemini 1.5 Flash → Kokoro TTS with sentence streaming
+- **Custom control-token protocol** (`##ADVANCE##`, `##FOLLOWUP##`, `##END##`) — lets the LLM signal conversation-flow decisions alongside its response, driving real-time state management
+*Stack:* `Python` `Silero VAD` `Moonshine STT` `Gemini API` `Kokoro TTS`
+🔗 **[Source Code](#)**
+
+<br/>
+
+#### `[02] // RETRIEVAL & LANGUAGE SYSTEMS`
+
+**[📄 RAG-Based PDF Chatbot](#)**
+Document Q&A grounded in retrieved content, not raw context stuffing.
+- Chunking + embedding pipeline with **FAISS** for vector similarity search
+- **LangChain** orchestration across ingestion, retrieval, and generation
+- Runs on **locally-hosted LLMs via Ollama** — zero external API dependency
+*Stack:* `Python` `LangChain` `FAISS` `Ollama`
+🔗 **[Source Code](#)**
+
+<br/>
+
+**[📰 AI Chronicle — GenAI News Aggregator](#)**
+Aggregates and deduplicates GenAI news using semantic similarity instead of keyword matching.
+- **Sentence Transformers** for semantic deduplication of near-identical articles
+- Full-stack build with **FastAPI** backend and **React/Next.js** frontend
+*Stack:* `FastAPI` `React` `Next.js` `Sentence Transformers`
+🔗 **[Source Code](#)**
+
+---
+
+### 📊 Telemetry & Metrics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alookik27&bg_color=0D1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+<br/>
+
+
+<div align="center">
+  <br/>
+  <sub><b>// 🟢 OPEN TO: AI/ML INTERNSHIPS · SOFTWARE ENGINEERING · COLLABS</b></sub>
+  <br/>
+</div>
+
+---
+
+### 🏁 Terminal Session: `exit`
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=150&section=footer" width="100%"/>
+
+  <table>
+    <tr>
+      <td align="center">
+        <b>Let's build the future of AI agents together.</b><br/>
+        <i>Currently seeking internships where I can ship real systems, not just tutorials.</i>
+        <br/><br/>
+        <a href="mailto:alookikgupta@gmail.com">
+          <img src="https://img.shields.io/badge/Contact_Me-00E5FF?style=for-the-badge&logo=minutemailer&logoColor=black" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  ```sql
+  SELECT * FROM passion WHERE name = 'Building AI Systems';
+  -- Result: Infinity rows returned.
+  ```
+
+</div>
