@@ -91,6 +91,8 @@ Document Q&A grounded in retrieved content, not raw context stuffing.
 🔗 Source Code </a>
 <br/>
 
+#### '[03] // AI NEWS AGGREGATOR'
+
 **[📰 AI Chronicle — GenAI News Aggregator](#)**
 Aggregates and deduplicates GenAI news using semantic similarity instead of keyword matching.
 - **Sentence Transformers** for semantic deduplication of near-identical articles
@@ -99,7 +101,7 @@ Aggregates and deduplicates GenAI news using semantic similarity instead of keyw
  <a href="https://github.com/alookik27/AI-Chronicle">
  🔗 Source Code
  </a>
-
+<br/>
 ---
 
 <div align="center">
