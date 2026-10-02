@@ -75,8 +75,8 @@ An end-to-end voice AI agent that conducts full spoken interviews without a huma
 - **Pipeline:** Silero VAD → Moonshine STT → Gemini 1.5 Flash → Kokoro TTS with sentence streaming
 - **Custom control-token protocol** (`##ADVANCE##`, `##FOLLOWUP##`, `##END##`) — lets the LLM signal conversation-flow decisions alongside its response, driving real-time state management
 *Stack:* `Python` `Silero VAD` `Moonshine STT` `Gemini API` `Kokoro TTS`
-🔗 **[Source Code](#)** <a href="https://github.com/alookik27/voice_interview_agent">
-
+ <a href="https://github.com/alookik27/voice_interview_agent">
+🔗 Source Code</a>
 <br/>
 
 #### `[02] // RETRIEVAL & LANGUAGE SYSTEMS`
@@ -87,8 +87,8 @@ Document Q&A grounded in retrieved content, not raw context stuffing.
 - **LangChain** orchestration across ingestion, retrieval, and generation
 - Runs on **locally-hosted LLMs via Ollama** — zero external API dependency
 *Stack:* `Python` `LangChain` `FAISS` `Ollama`
-🔗 **[Source Code](#)** <a href="https://github.com/alookik27/pdf-chatbot">
-
+<a href="https://github.com/alookik27/pdf-chatbot">
+🔗 Source Code </a>
 <br/>
 
 **[📰 AI Chronicle — GenAI News Aggregator](#)**
@@ -97,7 +97,7 @@ Aggregates and deduplicates GenAI news using semantic similarity instead of keyw
 - Full-stack build with **FastAPI** backend and **React/Next.js** frontend
 *Stack:* `FastAPI` `React` `Next.js` `Sentence Transformers`
  <a href="https://github.com/alookik27/AI-Chronicle">
- 🔗 **[Source Code](#)**
+ 🔗 Source Code
  </a>
 
 ---
