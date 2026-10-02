@@ -96,7 +96,9 @@ Aggregates and deduplicates GenAI news using semantic similarity instead of keyw
 - **Sentence Transformers** for semantic deduplication of near-identical articles
 - Full-stack build with **FastAPI** backend and **React/Next.js** frontend
 *Stack:* `FastAPI` `React` `Next.js` `Sentence Transformers`
-🔗 **[Source Code](#)** <a href="https://github.com/alookik27/AI-Chronicle">
+ <a href="https://github.com/alookik27/AI-Chronicle">
+ 🔗 **[Source Code](#)**
+ </a>
 
 ---
 
