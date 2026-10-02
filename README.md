@@ -75,7 +75,7 @@ An end-to-end voice AI agent that conducts full spoken interviews without a huma
 - **Pipeline:** Silero VAD → Moonshine STT → Gemini 1.5 Flash → Kokoro TTS with sentence streaming
 - **Custom control-token protocol** (`##ADVANCE##`, `##FOLLOWUP##`, `##END##`) — lets the LLM signal conversation-flow decisions alongside its response, driving real-time state management
 *Stack:* `Python` `Silero VAD` `Moonshine STT` `Gemini API` `Kokoro TTS`
-🔗 **[Source Code](#)**
+🔗 **[Source Code](#)** <a href="https://github.com/alookik27/voice_interview_agent">
 
 <br/>
 
@@ -87,7 +87,7 @@ Document Q&A grounded in retrieved content, not raw context stuffing.
 - **LangChain** orchestration across ingestion, retrieval, and generation
 - Runs on **locally-hosted LLMs via Ollama** — zero external API dependency
 *Stack:* `Python` `LangChain` `FAISS` `Ollama`
-🔗 **[Source Code](#)**
+🔗 **[Source Code](#)** <a href="https://github.com/alookik27/pdf-chatbot">
 
 <br/>
 
@@ -96,28 +96,9 @@ Aggregates and deduplicates GenAI news using semantic similarity instead of keyw
 - **Sentence Transformers** for semantic deduplication of near-identical articles
 - Full-stack build with **FastAPI** backend and **React/Next.js** frontend
 *Stack:* `FastAPI` `React` `Next.js` `Sentence Transformers`
-🔗 **[Source Code](#)**
+🔗 **[Source Code](#)** <a href="https://github.com/alookik27/AI-Chronicle">
 
 ---
-
-### 📊 Telemetry & Metrics
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alookik27&bg_color=0D1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%" />
-</div>
-
-<br/>
-
-
-<div align="center">
-  <br/>
-  <sub><b>// 🟢 OPEN TO: AI/ML INTERNSHIPS · SOFTWARE ENGINEERING · COLLABS</b></sub>
-  <br/>
-</div>
-
----
-
-### 🏁 Terminal Session: `exit`
 
 <div align="center">
 
